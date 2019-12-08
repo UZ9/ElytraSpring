@@ -1,0 +1,2 @@
+#Sets the multiplier for the velocity when launching a rocket
+velocity-multiplier: 3
